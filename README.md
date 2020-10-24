@@ -1,1 +1,1 @@
-# project37InfinityRunner
+# project-infinityRunner
